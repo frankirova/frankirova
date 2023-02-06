@@ -8,7 +8,7 @@ Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en p
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://dev.to/frankidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="frankidev" height="30" width="40" /></a>
+Correo electronico: franciscor1905@gmail.com
 <a href="https://linkedin.com/in/francisco rovaretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco rovaretti" height="30" width="40" /></a>
 </p>
 
