@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Francisco</h1>
-<h2 align="center">Desarrollador Frontend | Amante de la tecnología y el aprendizaje continuo</h2>
+<h2 >Desarrollador Frontend | Amante de la tecnología y el aprendizaje continuo</h2>
 
 <h2>Mi visión</h2>
 Estoy comprometido a seguir creciendo como desarrollador y a participar en proyectos relevantes que me permitan aplicar mis habilidades y conocimientos. Me encanta trabajar en equipo y colaborar con otros desarrolladores para crear soluciones eficientes y de alta calidad.
@@ -12,7 +12,7 @@ Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en p
 <a href="https://linkedin.com/in/francisco rovaretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco rovaretti" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">tecnologias y Herramientas:</h3>
+<h3 align="left">Skills:</h3>
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
