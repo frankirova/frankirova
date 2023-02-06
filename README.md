@@ -1,16 +1,15 @@
-### Hi there 👋
+# Nombre completo
+Desarrollador Full-Stack | Amante de la tecnología y el aprendizaje continuo
 
-<!--
-**frankirova/frankirova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado por la tecnología y el aprendizaje continuo. Con experiencia en desarrollo full-stack, me gusta resolver problemas y construir soluciones útiles y eficientes.
 
-Here are some ideas to get you started:
+Mis habilidades incluyen:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si estás interesado en colaborar en algún proyecto o simplemente quieres conectar, no dudes en contactarme.
+
+[Mi sitio web](https://www.tusitio.com) | [LinkedIn](https://www.linkedin.com/in/tuperfil)
