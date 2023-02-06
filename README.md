@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, Soy Francisco</h1>
 <h2 align="center">Desarrollador Frontend | Amante de la tecnología y el aprendizaje continuo</h2>
 
-Soy un apasionado por la tecnología y el aprendizaje continuo. Con experiencia en desarrollo frontend, me gusta resolver problemas y construir soluciones útiles y eficientes.
+<h2>Mi visión</h2>
+Estoy comprometido a seguir creciendo como desarrollador y a participar en proyectos relevantes que me permitan aplicar mis habilidades y conocimientos. Me encanta trabajar en equipo y colaborar con otros desarrolladores para crear soluciones eficientes y de alta calidad.
 
-
+Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en ponerte en contacto conmigo a través de mi correo electrónico o enlaces de redes sociales.
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
