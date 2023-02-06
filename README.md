@@ -10,4 +10,4 @@ Mis habilidades incluyen:
 - React
 Si estás interesado en colaborar en algún proyecto o simplemente quieres conectar, no dudes en contactarme.
 
-[Mi portafolio](https://www.tusitio.com) | [LinkedIn][(https://www.linkedin.com/in/tuperfil)](https://www.linkedin.com/in/francisco-rovaretti/)
+[Mi portafolio](https://www.tusitio.com) | [LinkedIn](https://www.linkedin.com/in/tuperfil)](https://www.linkedin.com/in/francisco-rovaretti/)
