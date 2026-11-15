@@ -1,24 +1,24 @@
-<h1 align="center">Hola 👋, Soy Francisco</h1>
-<h2 >Desarrollador Frontend | Amante de la tecnología y el aprendizaje continuo</h2>
+# Francisco Rovaretti
 
-<h2>Mi visión</h2>
-Estoy comprometido a seguir creciendo como desarrollador y a participar en proyectos relevantes que me permitan aplicar mis habilidades y conocimientos. Me encanta trabajar en equipo y colaborar con otros desarrolladores para crear soluciones eficientes y de alta calidad.
+Construyo herramientas internas y automatizaciones para equipos de soporte y operaciones.
+Tengo un panel propio en producción que usa el equipo de soporte de un ISP.
+Administro servidores Linux con Docker y despliego modelos de IA locales.
 
-Si estás interesado en trabajar conmigo o tienes alguna pregunta, no dudes en ponerte en contacto conmigo a través de mi correo electrónico o enlaces de redes sociales.
+📍 Córdoba, Argentina · Remoto o presencial
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-Correo electronico: franciscor1905@gmail.com
-  
-<a href="https://linkedin.com/in/francisco rovaretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco rovaretti" height="30" width="40" /></a>
-</p>
+## Proyectos destacados
+- **RM Tools** (código privado, [ficha del proyecto](https://github.com/frankirova/rm-tools-showcase)): panel interno para el soporte de un ISP. En producción desde septiembre 2026, lo usan 4 personas a diario. Python, Docker.
+- **ISP Platform** (en desarrollo, código privado, [ficha del proyecto](https://github.com/frankirova/isp-platform-showcase)): gestión para proveedores de internet. Go, React, PostgreSQL.
+- **[MikroTik Suspender](https://github.com/frankirova/mikrotik-suspender)**: suspensión masiva de clientes morosos desde un CSV. Python, FastAPI.
+- **[IA Gateway](https://github.com/frankirova/ia-gateway)**: acceso autenticado a un modelo de IA local (llama.cpp) para varias aplicaciones. Python.
+- **[VPS Hardening Stack](https://github.com/frankirova/rs-vps-stack)**: seguridad Zero Trust para servidores Ubuntu con Docker. Bash.
 
-<h3 align="left">Skills:</h3>
+## Stack
+Python · Go · JavaScript/TypeScript · React · Vue · PostgreSQL · Docker · Linux
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
+## Cómo trabajo
+Desarrollo con agentes de IA: defino requisitos y arquitectura, reviso y pruebo lo que se genera.
+Antes de programar trabajé 8 años en soporte técnico de un ISP: sé documentar, capacitar y diagnosticar problemas en producción.
+
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/francisco-rovaretti/) · rovarettifrancisco@gmail.com
