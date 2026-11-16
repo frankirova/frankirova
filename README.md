@@ -18,7 +18,8 @@ Python · Go · JavaScript/TypeScript · React · Vue · PostgreSQL · Docker ·
 
 ## Cómo trabajo
 Desarrollo con agentes de IA: defino requisitos y arquitectura, reviso y pruebo lo que se genera.
-Antes de programar trabajé 8 años en soporte técnico de un ISP: sé documentar, capacitar y diagnosticar problemas en producción.
+Trabajo en un ISP desde 2018: atención al cliente y soporte técnico nivel 2.
+Sé documentar, capacitar y diagnosticar problemas en producción.
 
 ## Contacto
 [LinkedIn](https://www.linkedin.com/in/francisco-rovaretti/) · rovarettifrancisco@gmail.com
